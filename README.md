@@ -1,5 +1,5 @@
 mutator
 =======
 
-Mutation analysis
+Mutation analysis. Quick and painless. Done.
 
