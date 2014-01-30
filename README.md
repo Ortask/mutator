@@ -1,5 +1,5 @@
 mutator
 =======
 
-Mutation analysis for any language. Quick and painless. Done.
+Mutation analysis for Ruby, Java and other languages. Quick and painless. Done.
 
