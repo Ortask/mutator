@@ -6,12 +6,12 @@ Quick, scalable and painless mutation analysis for Ruby, Java and many other lan
 
 mutator is the world's leading mutation analysis engine. It is a cross-language, high performance mutation analyzer with all the features expected of language-specific, mature and robust mutation analysis tools.
 
-Read more on the [Ortask website](http://ortask.com/mutator).
+Read more on the [Ortask website](http://ortask.com/mutator/).
 
 Using mutator
 -----------
 
-mutator is available in either a standalone version, or as an embeddable component. You can [download mutator here](http://ortask.com/mutator/download/).
+mutator is available in either a standalone version, or as an embeddable component. You can [download mutator here](http://ortask.com/mutator/).
 
 Extending mutator
 ---------------
