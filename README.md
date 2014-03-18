@@ -28,4 +28,4 @@ mutator is ready-to-run, so there is currently no need to build. You only need R
 Licensing
 ---------
 
-mutator is an open source product. The product is available under the AGPLv3 license for open source projects otherwise under a commercial license from [Ortask](http://ortask.com/contact-us/).
+mutator is an open source product. The product is available under the AGPLv3 license for open source projects otherwise under a commercial license from [Ortask](http://ortask.com/pricing-ortask-mutator/).
