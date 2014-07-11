@@ -4,7 +4,7 @@ Mutator 1.5.0
 Quick, scalable and painless mutation analysis for Ruby, Java and many other languages.
 ------
 
-Mutator is the world's leading mutation analysis engine. It is a cross-language, high performance mutation analyzer with all the features expected of language-specific, mature and robust mutation analysis tools.
+[Mutator is the world's leading mutation analyzer](https://gist.github.com/louismrose/11849546efd8cf496fc2#comment-1261635). It is a cross-language, high performance mutation analyzer with all the features expected of language-specific, mature and robust mutation analysis tools.
 
 Read more on the [Ortask website](http://ortask.com/mutator/).
 
