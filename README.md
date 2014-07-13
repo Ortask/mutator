@@ -4,16 +4,26 @@ Mutator 1.5.0
 Quick, scalable and painless mutation analysis for Ruby, Java and many other languages.
 ------
 
-[Mutator is the world's leading mutation analyzer](https://gist.github.com/louismrose/11849546efd8cf496fc2#comment-1261635). It is a cross-language, high performance mutation analyzer with all the features expected of language-specific, mature and robust mutation analysis tools.
+Mutator is the world's leading mutation analyzer. It is a cross-language, high performance mutation analyzer for Ruby and Java (and more languages coming soon!)
+
+[As this proof shows](https://gist.github.com/louismrose/11849546efd8cf496fc2#comment-1261635), neither mutant nor pitest can perform full mutation analysis. Mutator rights that wrong.
+
+Mutator does full mutation analysis by enabling:
+- the competent programmer hypothesis
+- the coupling effect
+
+[See this video](http://www.confreaks.com/videos/3274-mwrc-re-thinking-regression-testing) to learn more about how Mutator works and why partial mutation testers (like mutant and pitest) are simply not good enough.
 
 Read more on the [Ortask website](http://ortask.com/mutator/).
+
+
 
 Using Mutator
 -----------
 
 Mutator is available in either a standalone version, or as an embeddable component. 
 
-To try the commercial and enterprise editions of Mutator to increase your application's security and/or concurrency quality, [download from here](http://ortask.com/mutator/).
+The commercial and enterprise editions of Mutator can also increase the quality of your tests for concurrent applications (something that mutant and pitest can't do). [Download from here](http://ortask.com/mutator/).
 
  
 
