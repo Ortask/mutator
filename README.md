@@ -12,7 +12,7 @@ Mutator does full mutation analysis by enabling:
 - the competent programmer hypothesis
 - the coupling effect
 
-[See this video](http://www.confreaks.com/videos/3274-mwrc-re-thinking-regression-testing) to learn more about how Mutator works and why partial mutation testers (like mutant and pitest) are simply not good enough.
+[See this video](http://www.confreaks.com/videos/3274-mwrc-re-thinking-regression-testing) to see how Mutator works and why partial mutation testers (like mutant and pitest) are simply not good enough.
 
 Read more on the [Ortask website](http://ortask.com/mutator/).
 
