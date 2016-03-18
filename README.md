@@ -6,7 +6,8 @@ Quick, scalable and painless mutation analysis for Ruby, Java and many other lan
 
 Mutator is the world's leading mutation analyzer. It is a cross-language, high performance mutation analyzer for Ruby, Java and other programming languages.
 
-Get the latest version from the [Ortask website](http://ortask.com/mutator/)!
+This community edition of Mutator is free!
+To get the latest version with support for more languages, check out the [Ortask website](http://ortask.com/mutator/)!
 
 
 Why should I use Mutator?
