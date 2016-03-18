@@ -1,4 +1,4 @@
-Mutator 1.5.0
+Mutator
 ==========================================
 
 Quick, scalable and painless mutation analysis for Ruby, Java and many other languages.
